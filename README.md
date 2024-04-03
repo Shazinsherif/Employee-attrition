@@ -1,6 +1,5 @@
-Project: Customer Segmentation Analysis
+Project: Employee Attrition Prediction
 
-For this project, we'll use a retail dataset containing information about customer purchases. We have taken the dataset from Kaggle (IBM HR Analytics Employee Attrition & Performance dataset).
+The objective of this project is to analyze employee data to predict the likelihood of attrition (i.e., employees leaving the company). By identifying factors contributing to attrition, HR departments can take proactive measures to retain valuable employees and improve overall employee satisfaction.
 
-Objective
-The objective of this project is to segment customers based on their purchasing behavior and demographic information. This segmentation can help businesses better understand their customers and tailor marketing strategies accordingly.
+For this project, we'll use the IBM HR Analytics Employee Attrition & Performance dataset, which contains various features about employees such as age, job role, work environment satisfaction, and whether they've left the company or not
